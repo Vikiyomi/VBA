@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub AutofitColumns()
 f = ActiveSheet.Name
     Dim wrksht As Worksheet
